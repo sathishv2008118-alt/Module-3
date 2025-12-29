@@ -20,3 +20,4 @@ print('5'in tuplex)
 <img width="609" height="152" alt="image" src="https://github.com/user-attachments/assets/eba83626-2d75-4a99-8320-55c2548e4b4d" />
 
 ## Result
+The program successfully checks for the existence of both the character 'n' and the number 8 in the given tuple and prints True for each, confirming their presence
